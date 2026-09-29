@@ -1,6 +1,7 @@
 # PLC
-
-
++ José Pedro Mendes Castro
++ A100070
+---
 #### TPCs
-- [TPC1](TPC1.md)
+1. [TPC1](TPC1.md)
  
